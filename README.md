@@ -26,7 +26,10 @@ To set up and run the project locally, follow these steps:
    git clone <repository-url>
    cd resume-web-project
    ```
-
+2. **Navigate to the project directory:**
+   ```bash
+   cd resume-web-project
+  
 2. **Install dependencies:**
    ```
    npm install
